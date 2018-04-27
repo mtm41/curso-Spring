@@ -1,0 +1,11 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create
+  profiles:
+    active: development
+starwars:
+  lista:
+    - "comdo.dslod"
+    - "comd"
+  varl: "1"
